@@ -8,7 +8,7 @@ import java.util.Map;
 /**
  * BiMap：双向键值对
  *
- * Created by liuyan.liu@qunar.com on 15-7-21.
+ * Created by liuyandut@163.com on 15-7-21.
  */
 public class BiMapTest {
 
